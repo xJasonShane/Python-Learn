@@ -2,7 +2,7 @@
 <!-- 徽章图标 -->
 <p align="center">
 <a href="https://github.com/xJasonShane"><img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/xJasonShane/Python-Learn"></a>
-<a href="https://wakatime.com/badge/github/xJasonShane/Python-Learn"><img src="https://wakatime.com/badge/github/xJasonShane/Python-Learn.svg" alt="wakatime"></a>
+<a href="https://wakatime.com/badge/user/4d9e14a8-51d0-45c5-85c9-cf71d46d777b/project/a9f56308-1d7b-4829-92e5-0a68ff8ab5e8"><img src="https://wakatime.com/badge/user/4d9e14a8-51d0-45c5-85c9-cf71d46d777b/project/a9f56308-1d7b-4829-92e5-0a68ff8ab5e8.svg" alt="wakatime"></a>
 </p>
 
 ### 仓库介绍 | Warehouse introduction
