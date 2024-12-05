@@ -27,3 +27,4 @@ motorcycles = ['honda', 'yamaha', 'suzuki']
 print(motorcycles)
 motorcycles.remove('yamaha')
 print(motorcycles)
+# .remove 方法只删除列表内出现的第一个所选值，如果列表内存在多个该值需要使用循环方法进行全部删除或其他操作
