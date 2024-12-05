@@ -21,3 +21,9 @@ print(popped_motorcycles)
 specify_motorcycles = motorcycles.pop(1)
 print(specify_motorcycles)
 print(motorcycles)
+
+# 根据值内容删除元素
+motorcycles = ['honda', 'yamaha', 'suzuki']
+print(motorcycles)
+motorcycles.remove('yamaha')
+print(motorcycles)
