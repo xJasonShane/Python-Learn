@@ -15,12 +15,12 @@
 
 本仓库内容按照以下结构保存：
 
-书籍名称[简称]<文件夹> -> 文件名<章节编号-文件名称-创建日期>
+书籍名称[简称]<文件夹> -> 章节名称<文件夹> -> 文件名<章节编号-文件名称-创建日期>
 
 练习类文件需在文件最前端＋E字母
 
 ***The content of this warehouse is stored according to the following structure:***
-***Book name [abbreviation] < folder > - > file name < chapter number - file name - creation date >***
+***Book name [abbreviation] < folder > - > Chapter name < Folder > - > file name < chapter number - file name - creation date >***
 ***Exercise files need to be at the front of the file + E letter***
 
 ### 仓库目录 | Warehouse directory
